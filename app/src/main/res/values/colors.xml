@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Оранжевая тема -->
+    <color name="primary_orange">#FFFF8C00</color>
+    <color name="primary_dark_orange">#FFE67300</color>
+    <color name="accent_orange">#FFFFA500</color>
+    <color name="light_orange">#FFFFB366</color>
+    <color name="dark_orange">#FFCC6600</color>
+    
+    <!-- Цвета кнопок -->
+    <color name="button_number">#FFFF8C00</color>
+    <color name="button_operator">#FFE67300</color>
+    <color name="button_equals">#FFFFA500</color>
+    <color name="button_clear">#FFCC6600</color>
+    
+    <!-- Цвета текста -->
+    <color name="text_primary">#FF000000</color>
+    <color name="text_secondary">#FFFFFFFF</color>
+    <color name="text_display">#FF000000</color>
+    
+    <!-- Фон -->
+    <color name="background_primary">#FFFFF8DC</color>
+    <color name="background_secondary">#FFFFF0E6</color>
+</resources>
